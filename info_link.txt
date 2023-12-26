@@ -1,0 +1,5 @@
+kaggle link
+https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+
+lecture link
+https://www.youtube.com/watch?v=hecuSq2Lb6k&list=PL-sgB-_E4rabf5YpVuV4ptClNgipiSwIL&index=4
